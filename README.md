@@ -74,9 +74,7 @@
   <a href="https://github.com/sandunkumara163">
     <img src="https://github-readme-stats.vercel.app/api?username=sandunkumara163&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   </a>
-  <a href="https://github.com/sandunkumara163">
-    <img src="https://streak-stats.demolab.com/?user=sandunkumara163&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  </a>
+ 
 </p>
 
 <p align="center">
