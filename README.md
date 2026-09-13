@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vimukthiya+Sandun;HNDIT+Undergraduate;Aspiring+Software+Developer;Full-Stack+Web+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Vimukthiya+Sandun;HNDIT+Undergraduate;Aspiring+Software+Developer;Full-Stack+Web+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -75,7 +75,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sandunkumara163&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/sandunkumara163">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandunkumara163&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=sandunkumara163&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
   </a>
 </p>
 
