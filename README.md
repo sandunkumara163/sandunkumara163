@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/vimukthiyasandun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/vimukthiyasandun" target="_blank">
+  <a href="https://github.com/sandunkumara163" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -71,11 +71,11 @@
 <h3 align="left">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <a href="https://github.com/vimukthiyasandun">
-    <img src="https://github-readme-stats.vercel.app/api?username=vimukthiyasandun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <a href="https://github.com/sandunkumara163">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandunkumara163&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   </a>
-  <a href="https://github.com/vimukthiyasandun">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimukthiyasandun&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/sandunkumara163">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandunkumara163&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
   </a>
 </p>
 
